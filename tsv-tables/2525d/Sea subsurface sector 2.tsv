@@ -1,0 +1,21 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	
+Air Independent Propulsion	Ship Propulsion	01	Used with SUBMARINE entity type only.
+Diesel Electric, General	Ship Propulsion	02	Used with SUBMARINE entity type only.
+Diesel – Type 1	Ship Propulsion	03	Used with SUBMARINE entity type only.
+Diesel – Type 2	Ship Propulsion	04	Used with SUBMARINE entity type only.
+Diesel – Type 3	Ship Propulsion	05	Used with SUBMARINE entity type only.
+Nuclear Powered, General	Ship Propulsion	06	Used with SUBMARINE entity type only.
+Nuclear – Type 1	Ship Propulsion	07	Used with SUBMARINE entity type only.
+Nuclear – Type 2	Ship Propulsion	08	Used with SUBMARINE entity type only.
+Nuclear – Type 3	Ship Propulsion	09	Used with SUBMARINE entity type only.
+Nuclear – Type 4	Ship Propulsion	10	Used with SUBMARINE entity type only.
+Nuclear – Type 5	Ship Propulsion	11	Used with SUBMARINE entity type only.
+Nuclear – Type 6	Ship Propulsion	12	Used with SUBMARINE entity type only.
+Nuclear – Type 7	Ship Propulsion	13	Used with SUBMARINE entity type only.
+Autonomous Control	UUV Control	14	Used with AUV/UUV entity type only.
+Remotely Piloted	UUV Control	15	Used with AUV/UUV entity type only.
+Expendable	UUV Control	16	Used with AUV/UUV entity type only.
+Cyberspace	Capability	17	
+{Reserved for future use}		18-99	
+Version Extension Flag		-	

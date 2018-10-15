@@ -1,0 +1,30 @@
+First Modifier	Capability	Code	Remarks
+Unspecified		00	
+Assassination	Crime	01	
+Execution (Wrongful Killing)	Crime	02	
+Murder Victims	Crime	03	
+Hijacking/Hijacked	Crime	04	
+Kidnapping	Crime	05	
+Piracy	Crime	06	
+Rape	Crime	07	
+Civilian	Organization	08	
+Displaced Person(s), Refugee(s) and Evacuee(s)	Organization	09	
+Foreign Fighter(s)	Organization	10	
+Gang Member or Gang	Organization	11	
+Government Organization	Organization	12	
+Leader or Leadership	Organization	13	
+Nongovernmental Organization Member or Nongovernmental Organization	Organization	14	
+Unwilling/Coerced Recruit	Organization	15	
+Willing Recruit	Organization	16	
+Religious or Religious Organization	Organization	17	
+Targeted Individual or Organization	Organization	18	
+Terrorist or Terrorist Organization	Organization	19	
+Speaker	Organization	20	
+Accident	Composite Loss	21	
+Combat	Composite Loss	22	
+Other	Composite Loss	23	
+Loot	Crime	24	
+Hijacker	Crime	25	
+Cyberspace	Capability	26	
+{Reserved for future use}		27-99	
+Version Extension Flag		-	

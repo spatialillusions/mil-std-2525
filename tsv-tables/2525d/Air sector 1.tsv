@@ -1,0 +1,45 @@
+First Modifier	Category	Code	Remarks
+Not Applicable		00	
+Attack/Strike	Military Aircraft Type	01	
+Bomber	Military Aircraft Type	02	
+Cargo	Aircraft Type	03	
+Fighter	Military Aircraft Type	04	
+Interceptor	Military Aircraft Type	05	APP-6
+Tanker	Aircraft Type	06	
+Utility	Aircraft Type	07	
+Vertical or Short Take-off and Landing (VSTOL)/ Vertical Take-off and Landing (VTOL)	Aircraft Type	08	
+Passenger	Aircraft Type	09	
+Ultra Light	Aircraft Type	10	
+Airborne Command Post (ACP)	Military Aircraft Type	11	
+Airborne Early Warning (AEW)	Military Aircraft Type	12	
+Government	Aircraft Type	13	
+Medical Evacuation (MEDEVAC)	Mission Area	14	
+Escort	Military Mission Area	15	
+Electronic Combat (EC)/Jammer	Military Mission Area	16	
+Patrol	Mission Area	17	
+Reconnaissance	Mission Area	18	
+Trainer	Mission Area	19	
+Photographic (Reconnaissance)	Mission Area	20	
+Personnel Recovery 	Mission Area	21	
+Antisubmarine Warfare	Military Mission Area	22	
+Communications	Mission Area	23	
+Electronic Support (ES)	Military Mission Area	24	
+Mine Countermeasures (MCM)	Military Mission Area	25	
+Search and Rescue	Mission Area	26	
+Special Operations Forces	Military Mission Area	27	
+Surface Warfare	Military Mission Area	28	
+Very Important Person (VIP) Transport	Mission Area	29	
+Combat Search and Rescue (CSAR)	Military Mission Area	30	
+Suppression of Enemy Air Defenses	Military Mission Area	31	APP-6
+Antisurface Warfare	Military Mission Area	32	
+Fighter/Bomber	Military Aircraft Type	33	
+Intensive Care	Mission Area	34	
+Electronic Attack (EA)	Military Mission Area	35	
+Multi-Mission	Mission Area	36	
+Hijacking/Hijacked	Crime	37	
+ASW Helo- LAMPS	Mission Area	38	Must be paired in conjunction with rotary wing icon
+ASW Helo – SH-60R	Mission Area	39	Must be paired in conjunction with rotary wing icon
+Hijacker	Crime	40	
+Cyberspace	Capability	41	
+{Reserved for future use}		42-99	
+Version Extension Flag		-	

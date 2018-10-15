@@ -1,0 +1,6 @@
+Entity	Entity Type	Entity Subtype	Code	Remarks
+Unspecified			000000	
+Signal Intercept			110000	Reserved for hierarchical purposes.
+	Communications		110100	
+	Jammer		110200	
+	Radar		110300	

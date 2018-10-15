@@ -1,0 +1,20 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	
+Air	Missile Destination	01	
+Surface	Missile Destination	02	
+Subsurface	Missile Destination	03	
+Space	Missile Destination	04	
+Launched	Missile Status	05	
+Missile	Missile Status	06	
+Patriot	Missile Type-BMD	07	Used with INTERCEPTOR modifier 1 only.
+Standard Missile-2 (SM-2)	Missile Type-AAW	08	Used with INTERCEPTOR modifier 1 only.
+Standard Missile-6 (SM-6)	Missile Type-AAW	09	Used with INTERCEPTOR modifier 1 only.
+Evolved Sea Sparrow Missile (ESSM)	Missile Type-AAW	10	Used with INTERCEPTOR modifier 1 only.
+Rolling Airframe Missile (RAM)	Missile Type-AAW	11	Used with INTERCEPTOR modifier 1 only.
+Short Range	Missile Range	12	1000km or less.
+Medium Range	Missile Range	13	1000km to 3500km. Typically used in reference to surface-to-air missile
+Intermediate Range	Missile Range	14	1000km to 3500km. Typically used in reference to ballistic missile
+Long Range	Missile Range	15	3500km to 5500km.
+Intercontinental	Missile Range	16	5500km or greater.
+{Reserved for future use}		17-99	
+Version Extension Flag		-	

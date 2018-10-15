@@ -1,0 +1,9 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	Only used with satellite icons.
+Optical	Sensor	01	Only used with satellite icons.
+Infrared	Sensor	02	Only used with satellite icons.
+Radar	Sensor	03	Only used with satellite icons.
+Signals Intelligence (SIGINT)	Sensor	04	Only used with satellite icons.
+Cyberspace	Capability	05	
+{Reserved for future use}		06-99	
+Version Extension Flag		-	

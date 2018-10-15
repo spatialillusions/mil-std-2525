@@ -1,0 +1,28 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Biological	Sensor Type	01	
+Chemical	Sensor Type	02	
+Early Warning Radar	Sensor Type	03	
+Intrusion	Sensor Type	04	
+Nuclear	Sensor Type	05	
+Radiological	Sensor Type	06	
+Upgraded Early Warning Radar	Sensor Type	07	
+Hijacking/Hijacked	Crime	08	
+Civilian	Organization	09	
+Tilt-Rotor	Capability	10	
+{Reserved for future use}		11	
+Multi-purpose Blade	Capability	12	
+Tank-width Mine Plow	Capability	13	
+Bridge	Capability	14	
+Cyberspace	Capability	15	
+Armored	Capability	16	
+Attack	Capability	17	
+Cargo	Capability	18	
+Maintenance	Capability	19	
+MedEvac	Capability	20	
+Petroleum, oil, and lubricants (POL)	Capability	21	
+Utility	Capability	22	
+Water	Capability	23	
+Robotic	Capability	24	
+{Reserved for future use}		25-99	
+Version Extension Flag		-	

@@ -1,0 +1,19 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Short Range	Missile Range	01	1000km or less.
+Medium Range	Missile Range	02	1000km to 3500km.
+Intermediate Range	Missile Range	03	1000km to 3500km.
+Long Range	Missile Range	04	3500km to 5500km.
+Intercontinental 	Missile Range	05	5500km or greater.
+Arrow	Missile Type-BMD	06	Used with INTERCEPTOR modifier 1 only.
+Ground-Based Interceptor (GBI)	Missile Type-BMD	07	Used with INTERCEPTOR modifier 1 only.
+Patriot	Missile Type-BMD	08	Used with INTERCEPTOR modifier 1 only.
+Standard Missile Terminal Phase (SM-T)	Missile Type-BMD	09	Used with INTERCEPTOR modifier 1 only.
+Standard Missile – 3 (SM-3)	Missile Type-BMD	10	Used with INTERCEPTOR modifier 1 only.
+Terminal High Altitude Area Defense (THAAD)	Missile Type-BMD	11	Used with INTERCEPTOR modifier 1 only.
+Space	Launch Origin	12	
+Close Range (CRBM)	Missile Range	13	
+Debris	Missile Type-BMD	14	
+Unknown	Missile Type-BMD	15	
+{Reserved for future use}		16-99	
+Version Extension Flag		-	

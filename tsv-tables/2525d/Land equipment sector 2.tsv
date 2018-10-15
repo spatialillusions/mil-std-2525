@@ -1,0 +1,13 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	
+Cyberspace	Capability	01	
+Light	Capability	02	
+Medium	Capability	03	
+Railway	Capability	04	
+Tracked	Capability	05	
+Tractor Trailer	Capability	06	
+Wheeled LTD	Capability	07	
+Wheeled X	Capability	08	
+Robotic	Capability	09	
+{Reserved for future use}		10-99	
+Version Extension Flag		-	

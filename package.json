@@ -1,0 +1,25 @@
+{
+  "name": "milstd",
+  "version": "0.1.6",
+  "description": "Military symbol standards in JSON format",
+  "main": "milstd.js",
+  "module": "milstd.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatialillusions/milstd.git"
+  },
+  "author": "Måns Beckman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spatialillusions/milstd/issues"
+  },
+  "homepage": "https://github.com/spatialillusions/milstd#readme",
+  "devDependencies": {
+    "rollup": "^0.58.2",
+    "rollup-plugin-string": "^2.0.2"
+  }
+}

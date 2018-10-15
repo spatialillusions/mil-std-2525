@@ -1,0 +1,29 @@
+First Modifier	Category	Code	Remarks
+Unspecified	Mission Area	00	
+Own Ship	Mission Area	01	APP6
+Antiair Warfare	Mission Area	02	
+Antisubmarine Warfare	Mission Area	03	
+Escort	Mission Area	04	
+Electronic Warfare	Mission Area	05	
+Intelligence, Surveillance, Reconnaissance	Mission Area	06	
+Mine Countermeasures	Mission Area	07	
+Missile Defense	Mission Area	08	
+Medical	Mission Area	09	
+Mine Warfare	Mission Area	10	
+Remote Mult-imission Vehicle (RMV)	Mission Area	11	US only
+Special Operations Forces (SOF)	Asset Capability	12	
+Surface Warfare	Mission Area	13	
+Ballistic Missile 	Weapons Capability	14	
+Guided Missile 	Weapons Capability	15	
+Other Guided Missile 	Weapons Capability	16	
+Torpedo	Weapons Capability	17	
+Drone–Equipped	Asset Capability	18	
+Helicopter–Equipped/VSTOL	Asset Capability	19	
+Ballistic Missile Defense, Shooter 	Mission Area	20	
+Ballistic Missile Defense, Long-Range Surveillance and Track (LRS&T)	Mission Area	21	
+Sea-Base X-Band	Mission Area	22	Used with SBX Radar (Code: 121100) only
+Hijacking/Hijacked	Crime	23	
+Hijacker	Crime	24	
+Cyberspace	Capability	25	
+{Reserved for future use}		26-99	
+Version Extension Flag		-	

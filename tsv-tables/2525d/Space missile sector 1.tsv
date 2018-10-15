@@ -1,0 +1,7 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Ballistic	Missile Class	01	
+Space	Launch Origin	02	
+Interceptor	Missile Class	03	
+{Reserved for future use}		04-99	
+Version Extension Flag		-	

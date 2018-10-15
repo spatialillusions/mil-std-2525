@@ -1,0 +1,12 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Air	Launch Origin	01	
+Surface	Launch Origin	02	
+Subsurface	Launch Origin	03	
+Space	Launch Origin	04	
+Anti–Ballistic	Missile Class	05	
+Ballistic	Missile Class	06	
+Cruise	Missile Class	07	
+Interceptor	Missile Class	08	
+{Reserved for future use}		09-99	
+Version Extension Flag		-	

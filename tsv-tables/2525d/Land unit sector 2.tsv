@@ -1,0 +1,82 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	
+Airborne	Mobility	01	
+Arctic	Mobility	02	
+Battle Damage Repair	Capability	03	
+Bicycle Equipped	Mobility	04	
+Casualty Staging	Capability	05	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Clearing	Capability	06	
+Close Range	Capability	07	
+Control	Capability	08	
+Decontamination	Capability	09	
+Demolition	Capability	10	
+Dental	Capability	11	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Digital	Capability	12	
+Enhanced Position Location Reporting System (EPLRS)	Capability	13	
+Equipment	Capability	14	APP6
+Heavy	Capability	15	
+High Altitude	Capability	16	
+Intermodal	Capability	17	
+Intensive Care	Capability	18	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Light	Capability	19	
+Laboratory	Capability	20	
+Launcher	Capability	21	
+Long Range	Capability	22	
+Low Altitude	Capability	23	
+Medium	Capability	24	
+Medium Altitude	Capability	25	
+Medium Range	Capability	26	
+Mountain	Capability	27	
+High to Medium Altitude	Capability	28	
+Multi–Channel	Capability	29	
+Optical (Flash)	Capability	30	
+Pack Animal	Capability	31	
+Patient Evacuation Coordination	Capability	32	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Preventive Maintenance	Capability	33	
+Psychological	Capability	34	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Radio Relay Line of Sight	Capability	35	
+Railroad	Mobility	36	
+Recovery (Unmanned Systems)	Capability	37	
+Recovery (Maintenance)	Capability	38	
+Rescue Coordination Center	Capability	39	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Riverine	Mobility	40	
+Single Channel	Capability	41	
+Ski	Capability	42	
+Short Range	Capability	43	
+Strategic	Capability	44	
+Support	Capability	45	
+Tactical	Capability	46	
+Towed	Mobility	47	
+Troop	Capability	48	
+Vertical or Short Take–Off and Landing (VTOL/VSTOL)	Mobility	49	
+Veterinary	Capability	50	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Wheeled	Mobility	51	
+High to Low Altitude	Capability	52	
+Medium to Low Altitude	Capability	53	
+Attack	Capability	54	
+Refuel	Capability	55	
+Utility	Capability	56	
+Combat Search and Rescue	Capability	57	
+Guerilla	Capability	58	
+Air Assault	Mobility	59	
+Amphibious	Mobility	60	
+Very Heavy	Capability	61	
+Supply	Capability	62	
+Cyberspace	Capability	63	
+Navy Barge, Self-Propelled	Mobility	64	
+Navy Barge, Not Self-Propelled	Mobility	65	
+Launch	Mobility	66	
+Landing Craft	Mobility	67	
+Landing Ship	Mobility	68	
+Service Craft/Yard	Mobility	69	
+Tug Harbor	Mobility	70	
+Ocean Going Tug Boat	Mobility	71	
+Surface Deployment and Distribution Command	Capability	72	
+Noncombatant Generic Vessel	Mobility	73	
+Composite	Capability	74	
+Shelter	Capability	75	
+Light and Medium	Capability	76	
+Tracked	Mobility	77	
+Security Force Assistance	Capability	78	
+{Reserved for future use}		79-99	
+Version Extension Flag		-	

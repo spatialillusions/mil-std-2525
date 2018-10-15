@@ -1,0 +1,68 @@
+Entity	Entity Type	Entity Subtype	Code	Remarks
+Unspecified			000000	
+Sea Mine, General			110000	
+	Sea Mine, Bottom		110100	
+	Sea Mine, Moored		110200	
+	Sea Mine, Floating		110300	
+	Sea Mine, Rising		110400	
+	Sea Mine, Other Position		110500	
+	Kingfisher		110600	
+	Small Object, Mine–Like		110700	
+	Exercise Mine, General		110800	Used with exercise frame only.
+		Exercise Mine, Bottom	110801	Used with exercise frame only.
+		Exercise Mine, Moored	110802	Used with exercise frame only.
+		Exercise Mine, Floating	110803	Used with exercise frame only.
+		Exercise Mine, Rising	110804	Used with exercise frame only.
+	Neutralized Mine, General		110900	
+		Neutralized Mine, Bottom	110901	
+		Neutralized Mine, Moored	110902	
+		Neutralized Mine, Floating	110903	
+		Neutralized Mine, Rising	110904	
+		Neutralized Mine, Other Position	110905	
+Unexploded Ordnance			120000	
+Sea Mine Decoy			130000	
+	Sea Mine Decoy, Bottom		130100	
+	Sea Mine Decoy, Moored		130200	
+Mine–Like Contact (MILCO)			140000	
+	MILCO - General		140100	
+		MILCO - General, Confidence Level 1	140101	
+		MILCO - General, Confidence Level 2	140102	
+		MILCO - General, Confidence Level 3	140103	
+		MILCO - General, Confidence Level 4	140104	
+		MILCO - General, Confidence Level 5	140105	
+	MILCO - Bottom		140200	
+		MILCO - Bottom, Confidence Level 1	140201	
+		MILCO - Bottom, Confidence Level 2	140202	
+		MILCO - Bottom, Confidence Level 3	140203	
+		MILCO - Bottom, Confidence Level 4	140204	
+		MILCO - Bottom, Confidence Level 5	140205	
+	MILCO - Moored		140300	
+		MILCO - Moored, Confidence Level 1	140301	
+		MILCO - Moored, Confidence Level 2	140302	
+		MILCO - Moored, Confidence Level 3	140303	
+		MILCO - Moored, Confidence Level 4	140304	
+		MILCO - Moored, Confidence Level 5	140305	
+	MILCO - Floating		140400	
+		MILCO - Floating, Confidence Level 1	140401	
+		MILCO - Floating, Confidence Level 2	140402	
+		MILCO - Floating, Confidence Level 3	140403	
+		MILCO - Floating, Confidence Level 4	140404	
+		MILCO - Floating, Confidence Level 5	140405	
+Mine–Like Echo (MILEC), General			150000	
+	Mine–Like Echo, Bottom		150100	
+	Mine–Like Echo, Moored		150200	
+	Mine–Like Echo, Floating		150300	
+Negative Reacquisition, General			160000	
+	Negative Reacquisition, Bottom		160100	
+	Negative Reacquisition, Moored		160200	
+	Negative Reacquisition, Floating		160300	
+Obstructor			170000	
+	Neutralized Obstructor		170100	
+General Mine Anchor			180000	
+"Non-Mine 				
+Mine–Like Object (NMLO), General"			190000	
+	Non-Mine Mine–Like Object, Bottom		190100	
+	Non-Mine Mine–Like Object, Moored		190200	
+	Non-Mine Mine–Like Object, Floating		190300	
+Environmental Report Location			200000	
+Dive Report Location			210000	

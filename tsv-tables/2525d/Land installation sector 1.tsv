@@ -1,0 +1,18 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Biological	CBRN Type	01	
+Chemical 	CBRN Type	02	
+Nuclear	CBRN Type	03	
+Radiological	CBRN Type	04	
+Decontamination	CBRN Type	05	
+Coal	Electric Power Type	06	Used with Electric Power only
+Geothermal	Electric Power Type	07	Used with Electric Power only
+Hydroelectric	 Electric Power Type	08	Used with Electric Power only
+Natural Gas	Electric Power Type	09	Used with Electric Power only
+Petroleum	Electric Power Type	10	Used with Electric Power only
+Civilian 	Operation	11	
+Civilian Telephone	Telecommunication Type	12	
+Civilian Television	Telecommunication Type	13	
+Cyberspace	Capability	14	
+{Reserved for future use}		15-99	
+Version Extension Flag		-	

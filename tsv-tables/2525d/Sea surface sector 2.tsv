@@ -1,0 +1,20 @@
+Second Modifier	Category	Code	Remarks
+Unspecified		00	
+Nuclear Powered	Ship Propulsion	01	
+Heavy	Ship Capacity	02	
+Light	Ship Capacity	03	
+Medium	Ship Capacity	04	
+Dock	Cargo Capacity	05	
+Logistics	Cargo Capacity	06	
+Tank	Cargo Capacity	07	
+Vehicle	Cargo Capacity	08	
+Fast	Ship Mobility	09	
+Air–Cushioned (US)	Ship Mobility	10	
+Air–Cushioned (NATO)	Ship Mobility	11	
+Hydrofoil	Ship Mobility	12	
+Autonomous Control	USV Control	13	Used with USV only.
+Remotely Piloted	USV Control	14	Used with USV only.
+Expendable	USV Control	15	Used with USV only.
+Cyberspace	Capability	16	
+{Reserved for future use}		17-99	
+Version Extension Flag		-	

@@ -1,0 +1,24 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Assassination	Crime	01	
+Execution (Wrongful Killing)	Crime	02	
+Hijacking/Hijacked	Crime	03	
+House–to–House	Military Information Support Operations	04	
+Kidnapping	Crime	05	
+Murder	Crime	06	
+Piracy	Crime	07	
+Rape	Crime	08	
+Written Military Information Support Operations	Military Information Support Operations	09	
+Pirate	Crime	10	
+False	IED Category	11	
+Find	IED Category	12	
+Found and Cleared	IED Category	13	
+Hoax (Decoy)	IED Category	14	
+Attempted	Incident Qualifier	15	
+Accident	Incident Qualifier	16	
+Incident	Incident Qualifier	17	
+Theft	Crime	18	
+Hijacker	Crime	19	
+Cyberspace	Capability	20	
+{Reserved for future use}		21-99	
+Version Extension Flag		-	

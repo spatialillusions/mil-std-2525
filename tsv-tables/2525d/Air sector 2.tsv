@@ -1,0 +1,16 @@
+Second Modifier	Category	Code	Remarks
+Not Applicable		00	
+Heavy	Cargo/Transport Capacity	01	
+Medium	Cargo/Transport Capacity	02	
+Light	Cargo/Transport Capacity	03	
+Boom–Only	Re-Fueling Capability	04	Used with TANKER only.
+Drogue–Only	Re-Fueling Capability	05	Used with TANKER only.
+Boom and Drogue	Re-Fueling Capability	06	Used with TANKER only.
+Close Range	Range	07	
+Short Range	Range	08	
+Medium Range	Range	09	
+Long Range	Range	10	
+Downlinked	Track Link Availability	11	
+Cyberspace	Capability	12	
+{Reserved for future use}		13-99	
+Version Extension Flag		-	

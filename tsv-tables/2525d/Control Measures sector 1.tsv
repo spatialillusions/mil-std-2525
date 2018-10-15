@@ -1,0 +1,54 @@
+First Modifier	Capability	Code	Remarks
+Unspecified		00	
+Wheeled limited cross country 	Mobility	01	
+Wheeled cross country 	Mobility	02	
+Tracked 	Mobility	03	
+Wheeled and tracked combination 	Mobility	04	
+Towed	Mobility	05	
+Rail	Mobility	06	
+Pack Animals	Mobility	07	
+No Vehicles	Mobility	08	
+Over snow (prime mover)	Mobility	09	
+Sled	Mobility	10	
+Barge	Mobility	11	
+Amphibious	Mobility	12	
+Unspecified Mine	Obstacles	13	
+Antipersonnel Mine	Obstacles	14	
+Antipersonnel Mine with Directional Effects	Obstacles	15	
+Antitank Mine	Obstacles	16	
+Antitank Mine with Antihandling Device	Obstacles	17	
+Wide Area Antitank Mine	Obstacles	18	
+Mine Cluster	Obstacles	19	
+Antipersonnel Mine and Antipersonnel Mine with Directional Effects	Obstacles	20	
+Antipersonnel Mine and Antitank Mine	Obstacles	21	
+Antipersonnel Mine and Antitank Mine with Antihandling Device	Obstacles	22	
+Antipersonnel Mine and Wide Area Antitank Mine	Obstacles	23	
+Antipersonnel Mine and Mine Cluster	Obstacles	24	
+Antipersonnel Mine with Directional Effects and Antitank Mine	Obstacles	25	
+Antipersonnel Mine with Directional Effects and Antitank Mine with Antihandling Device	Obstacles	26	
+Antipersonnel Mine with Directional Effects and Wide Area Antitank Mine	Obstacles	27	
+Antipersonnel Mine with Directional Effects and Mine Cluster	Obstacles	28	
+Antitank Mine and Antitank Mine with Antihandling Device	Obstacles	29	
+Antitank Mine and Wide Area Antitank Mine	Obstacles	30	
+Antitank Mine and Mine Cluster	Obstacles	31	
+Antitank Mine with Antihandling Device and Wide Area Antitank Mine	Obstacles	32	
+Antitank Mine with Antihandling Device and Mine Cluster	Obstacles	33	
+Wide Area Antitank Mine and Mine Cluster	Obstacles	34	
+Antipersonnel Mine, Antipersonnel Mine with Directional Effects, and Antitank Mine	Obstacles	35	
+Antipersonnel Mine, Antipersonnel Mine with Directional Effects, and Antitank Mine with Antihandling Device	Obstacles	36	
+Antipersonnel Mine, Antipersonnel Mine with Directional Effects, and Wide Area Antitank Mine	Obstacles	37	
+Antipersonnel Mine, Antipersonnel Mine with Directional Effects, and Mine Cluster	Obstacles	38	
+Antipersonnel Mine, Antitank Mine, and Antitank Mine with Antihandling Device	Obstacles	39	
+Antipersonnel Mine, Antitank Mine, and Wide Area Antitank Mine	Obstacles	40	
+Antipersonnel Mine, Antitank Mine, and Mine Cluster	Obstacles	41	
+Antipersonnel Mine, Antitank Mine with Antihandling Device, and Wide Area Antitank Mine	Obstacles	42	
+Antipersonnel Mine, Antitank Mine with Antihandling Device, and Mine Cluster	Obstacles	43	
+Antipersonnel Mine, Wide Area Antitank Mine, and Mine Cluster	Obstacles	44	
+Antipersonnel Mine with Directional Effects, Antitank Mine, and Antitank Mine with Antihandling Device	Obstacles	45	
+Antipersonnel Mine with Directional Effects, Antitank Mine, and Wide Area Antitank Mine	Obstacles	46	
+Antipersonnel Mine with Directional Effects, Antitank Mine, and Mine Cluster	Obstacles	47	
+Antipersonnel Mine with Directional Effects, Antitank Mine with Antihandling Device, and Wide Area Antitank Mine	Obstacles	48	
+Antipersonnel Mine with Directional Effects, Antitank Mine with Antihandling Device, and Mine Cluster	Obstacles	49	
+Antipersonnel Mine with Directional Effects, Wide Area Antitank Mine, and Mine Cluster	Obstacles	50	
+{Reserved for future use}		51-99	
+Version Extension Flag		-	

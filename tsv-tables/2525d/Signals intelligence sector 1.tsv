@@ -1,0 +1,69 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Anti-Aircraft Fire Control	Radar	01	
+Airborne Search and Bombing	Radar	02	
+Airborne Intercept	Radar	03	
+Altimeter	Radar	04	
+Airborne Reconnaissance and Mapping	Radar	05	
+Air Traffic Control	Radar	06	
+Beacon Transponder (not IFF)	Radar	07	
+Battlefield Surveillance	Radar	08	
+Controlled Approach	Radar	09	
+Controlled Intercept	Radar	10	
+Cellular/Mobile	Communications	11	
+Coastal Surveillance	Radar	12	
+Decoy/Mimic	Radar	13	
+Data Transmission	Radar	14	
+Earth Surveillance	Radar	15	
+Early Warning	Radar	16	
+Fire Control	Radar	17	
+Ground Mapping	Radar	18	
+Height Finding	Radar	19	
+Harbor Surveillance	Radar	20	
+Identification, Friend or Foe (Interrogator)	Radar	21	
+Instrument Landing System	Radar	22	
+Ionospheric Sounding	Radar	23	
+Identification, Friend or Foe (Transponder)	Radar	24	
+Barrage Jammer	Jammer	25	
+Click Jammer	Jammer	26	
+Deceptive Jammer	Jammer	27	
+Frequency Swept Jammer	Jammer	28	
+Jammer (general)	Jammer	29	
+Noise Jammer	Jammer	30	
+Pulsed Jammer	Jammer	31	
+Repeater Jammer	Jammer	32	
+Spot Noise Jammer	Jammer	33	
+Transponder Jammer	Jammer	34	
+Missile Acquisition	Radar	35	
+Missile Control	Jammer	36	
+Missile Downlink	Air Radar	37	
+Meteorological	Radar	38	
+Multi-Function	Jammer	39	
+Missile Guidance	Radar	40	
+Missile Homing	Radar	41	
+Missile Tracking	Jammer	42	
+Navigational/General	Jammer	43	
+Navigational/Distance Measuring Equipment	Jammer	44	
+Navigation/Terrain Following	Jammer	45	
+Navigational/Weather Avoidance	Jammer	46	
+Omni-Line of Sight (LOS)	Jammer	47	
+Proximity Use	Air Radar	48	
+Point-to-Point Line of Sight (LOS)	Communications	49	
+Instrumentation	Radar	50	
+Range Only	Radar	51	
+Sonobuoy	Radar	52	
+Satellite Downlink	Communications	53	
+Space	Radar	54	
+Surface Search	Radar	55	
+Shell Tracking	Land Radar	56	
+Satellite Uplink	Communications	57	
+Target Acquisition	Radar	58	
+Target Illumination	Radar	59	
+Tropospheric Scatter	Communications	60	
+Target Tracking	Radar	61	
+Unknown	Radar	62	
+Video Remoting	Radar	63	
+Experimental	Radar	64	
+Cyberspace	Capability	65	
+{Reserved for future use}		66-99	
+Version Extension Flag		-	

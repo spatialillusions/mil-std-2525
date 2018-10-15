@@ -1,0 +1,607 @@
+Entity	Entity Type	Entity Subtype	Geometric Rendering	Code	Remarks	
+Command and Control Lines				110000		
+	Boundary		Line	110100		
+	Light Line		Line	110200		
+	Engineer Work Line		Line	110300		
+Command and Control Areas				120000		
+	Area of Operations		Area	120100		
+	Named Area of Interest		Area	120200		
+	Targeted Area of Interest		Area	120300		
+	Airfield Zone		Area	120400		
+	Base Camp		Area	120500		
+	Guerrilla Base		Area	120600		
+Command and Control Points				130000		
+	Action Point (General)		Point	130100		
+	Amnesty Point		Point	130200		
+	Checkpoint		Point	130300		
+	Center of Main Effort		Point	130400		
+	Contact Point		Point	130500		
+	Coordinating Point		Point	130600		
+	Decision Point		Point	130700		
+	Distress Call		Point	130800		
+	Entry Control Point		Point	130900		
+	Fly-To-Point			131000		
+		Sonobuoy	Point	131001		
+		Weapon	Point	131002		
+		Normal	Point	131003		
+	Linkup Point		Point	131100		
+	Passage Point		Point	131200		
+	Point of Interest		Point	131300		
+		Launch Event	Point	131301		
+	Rally Point		Point	131400		
+	Release Point		Point	131500		
+	Start Point		Point	131600		
+	Special Point		Point	131700		
+	Waypoint		Point	131800		
+	Airfield		Point	131900		
+	Target Handover		Point	132000		
+	Key Terrain		Point	132100		
+Maneuver Lines				140000		
+	Forward Line of Troops		Line	140100		
+	{Reserved for future use}			140200		
+	Phase Line		Line	140300		
+	Forward Edge of the Battle Area		Line	140400		
+	Principle Direction of Fire		Line	140500		
+	Direction of Attack		Line	140600		
+		Friendly Aviation	Line	140601		
+		Friendly Main Attack /Decisive	Line	140602		
+		Friendly Supporting Attack	Line	140603		
+		Feint	Line	140605		
+	Final Coordination Line		Line	140700		
+	Infiltration Lane		Line	140800		
+	Limit of Advance		Line	140900		
+	Line of Departure		Line	141000		
+	Line of Departure/Line of Contact		Line	141100		
+	Probable Line of Deployment		Line	141200		
+	Airhead Line		Line	141300		
+	Bridgehead Line		Line	141400		
+	Holding Line		Line	141500		
+	Release Line		Line	141600		
+	Ambush		Line	141700		
+Maneuver Areas				150000		
+	Area			150100		
+	Assembly Area		Area	150200		
+	Occupied Assembly Area		Area	150300		
+	{Reserved for future use}			150400		
+	Action Area			150500		
+		Joint Tactical Action Area (JTAA)	Area	150501		
+		Submarine Action Area (SAA)	Area	150502		
+		Submarine-Generated Action Area (SGAA)	Area	150503		
+	Drop Zone		Area	150600		
+	Extraction Zone		Area	150700		
+	Landing Zone		Area	150800		
+	Pick–Up Zone		Area	150900		
+	Fortified Area		Area	151000		
+	Limited Access Area		Area	151100		
+	Battle Position		Area	151200		
+		Prepared (P) but not Occupied	Area	151202		
+		Strong Point	Area	151203		
+		Contain	Area	151204		
+		Retain	Area	151205		
+	Engagement Area (EA)		Area	151300		
+	Axis of Advance			151400		
+		Friendly Airborne/Aviation	Line	151401		
+		Attack Helicopter	Line	151402		
+		Main Attack	Line	151403		
+		Supporting Attack 	Line	151404		
+	Assault Position		Area	151500		
+	Attack Position		Area	151600		
+	Objective		Area	151700		
+	Encirclement			151800		
+	Penetration Box		Area	151900		
+	Attack by Fire Position		Area	152000		
+	Support by Fire		Area	152100		
+	Search Area/Reconnaissance Area		Area	152200		
+Maneuver Points				160000		
+	Observation Post/Outpost (unspecified)		Point	160100		
+	Observation Post/Outpost (specified)		Point	160200		
+		Reconnaissance Outpost	Point	160201		
+		Forward Observer/Spotter Outpost/Position	Point	160202		
+		CBRN Observation Outpost	Point	160203		
+		Sensor Outpost /Listening Post	Point	160204		
+		Combat Outpost	Point	160205		
+	Target Reference Point		Point	160300		
+	Point of Departure		Point	160400		
+Airspace Control (Corridors) Areas				170000		
+	Air Corridor		Area	170100		
+	Low Level Transit Route		Area	170200		
+	Minimum–Risk Route		Area	170300		
+	Safe Lane		Area	170400		
+	Standard Use Army Aircraft Flight Route		Area	170500		
+	Transit Corridor		Area	170600		
+	Special Corridor		Area	170700		
+	Base Defense Zone		Area	170800		
+	High–Density Airspace Control Zone		Area	170900		
+	Restricted Operations Zone		Area	171000		
+	Air-to-Air Restricted Operating Zone		Area	171100		
+	Unmanned Aircraft Restricted Operating Zone		Area	171200		
+	Weapon Engagement Zone		Area	171300		
+	Fighter Engagement Zone		Area	171400		
+	Joint Engagement Zone		Area	171500		
+	Missile Engagement Zone		Area	171600		
+	Low Altitude Missile Engagement Zone		Area	171700		
+	High Altitude Missile Engagement Zone		Area	171800		
+	Short Range Air Defense Engagement Zone		Area	171900		
+	Weapons Free Zone		Area	172000		
+Airspace Control Points				180000		
+	Air Control Point		Point	180100		
+	Communications Checkpoint		Point	180200		
+	Downed Aircraft Pick–up Point		Point	180300		
+	Pop–up Point		Point	180400		
+	Air Control Rendezvous		Point	180500		
+	Tactical Air Navigation (TACAN)		Point	180600		
+	Combat Air Patrol (CAP)Station		Point	180700		
+	Airborne Early Warning (AEW) Station		Point	180800		
+	ASW (Helo and F/W) Station		Point	180900		
+	Strike Initial Point		Point	181000		
+	Replenishment Station		Point	181100		
+	Tanking		Point	181200		
+	Antisubmarine Warfare, Rotary Wing		Point	181300		
+	Surface Combat Air Patrol (SUCAP) – Fixed Wing		Point	181400		
+	SUCAP – Rotary Wing		Point	181500		
+	MIW – Fixed Wing		Point	181600		
+	MIW – Rotary Wing		Point	181700		
+	Tomcat		Point	181800		
+	Rescue		Point	181900		
+	Unmanned Aerial System (UAS/UA)		Point	182000		
+	"Vertical Takeoff and Landing (VTOL) Tactical Unmanned 					
+Aircraft (VTUA)"	Point	182100				
+	Orbit		Point	182200		
+	Orbit – Figure Eight		Point	182300		
+	Orbit – Race Track		Point	182400		
+	Orbit – Random Closed		Point	182500		
+Airspace Control Lines				190000		
+	Identification Friend or Foe Off Line		Line	190100		
+	Identification Friend or Foe On Line		Line	190200		
+Maritime Control Areas				200000		
+	Launch Area			200100		
+		Ellipse/Circle	Area	200101		
+	Defended Area			200200		
+		Ellipse/Circle	Area	200201		
+		Rectangle	Area	200202		
+	No Attack (NOTACK) Zone		Area	200300		
+	Ship Area of Interest		Point	200400		
+		Ellipse/Circle	Area	200401		
+		Rectangle	Area	200402		
+	Active Maneuver Area		Point	200500		
+	Cued Acquisition Doctrine		Point	200600		
+	Radar Search Doctrine		Point	200700		
+Maritime Control Points				210000		
+	Plan Ship		Point	210100		
+	Aim Point		Point	210200		
+	Defended Asset		Point	210300		
+	Drop Point		Point	210400		
+	Entry Point		Point	210500		
+	Air Detonation		Point	210600		
+	Ground Zero		Point	210700		
+	Impact Point		Point	210800		
+	Predicted Impact Point		Point	210900		
+	Launched Torpedo		Point	211000		
+	Missile Detection Point		Point	211100		
+	Acoustic Countermeasure (Decoy)		Point	211200		
+	Electronic Countermeasures (ECM) Decoy		Point	211300		
+	Brief Contact		Point	211400		
+	Datum Lost Contact		Point	211500		
+	BT Buoy Drop		Point	211600		
+	Reported Bottomed Sub		Point	211700		
+	Moving Haven		Point	211800		
+	Screen Center		Point	211900		
+	Lost Contact		Point	212000		
+	Sinker		Point	212100		
+	Trial Track		Point	212200		
+	Acoustic Fix		Point	212300		
+	Electromagnetic Fix		Point	212400		
+	Electromagnetic – Magnetic Anomaly Detection (MAD)		Point	212500		
+	Optical Fix		Point	212600		
+	Formation		Point	212700		
+	Harbor		Point	212800		
+	Harbor Entrance Point		Point	212900		
+		A	Point	212901		
+		Q	Point	212902		
+		X	Point	212903		
+		Y	Point	212904		
+	Dip Position		Point	213000		
+	Search		Point	213100		
+	Search Area		Point	213200		
+	Search Center		Point	213300		
+	Navigational Reference Point		Point	213400		
+	Sonobuoy		Point	213500		
+		Ambient Noise	Point	213501		
+		Air Transportable Communication	Point	213502		
+		Barra	Point	213503		
+		Bathythermograph Transmitting	Point	213504		
+		Command Active Multi-Beam (CAMBS)	Point	213505		
+		Command Active Sonobuoy Directional Command Active Sonobuoy System (CASS)	Point	213506		
+		Directional Frequency Analysis and Recording (DIFAR)	Point	213507		
+		Directional Command Active Sonobuoy System (DICASS)	Point	213508		
+		Expendable Reliable Acoustic Path Sonobuoy (ERAPS)	Point	213509		
+		Expired	Point	213510		
+		Kingpin	Point	213511		
+		Low Frequency Analysis and Recording (LOFAR)	Point	213512		
+		Pattern Center	Point	213513		
+		Range Only	Point	213514		
+		Vertical Line Array Directional Frequency Analysis and Recording (DIFAR)	Point	213515		
+	Reference Point		Point	213600		
+	Special Point		Point	213700		
+	Navigational Reference Point(Points)		Point	213800		
+	Data Link Reference Point		Point	213900		
+	{Reserved for future use}			214000		
+	Vital Area Center		Point	214100		
+	Corridor Tab Point		Point	214200		
+	Enemy Point		Point	214300		
+	Marshall Point		Point	214400		
+	Position and Intended Movement (PIM)		Point	214500		
+	Pre-Landfall Waypoint		Point	214600		
+	Estimated Position (EP)		Point	214700		
+	Waypoint		Point	214800		
+	General Sea Subsurface Station		Point	214900		
+	Submarine Sea Subsurface Station		Point	215000		
+	Submarine Antisubmarine Warfare Sea Subsurface Station		Point	215100		
+	Unmanned Underwater Vehicle Sea Subsurface Station		Point	215200		
+	Antisubmarine Warfare (ASW) Unmanned Underwater Vehicle Sea Subsurface Station		Point	215300		
+	Mine Warfare Unmanned Underwater Vehicle Sea Subsurface Station		Point	215400		
+	Sea Surface Warfare Unmanned Underwater Vehicle Subsurface Station		Point	215500		
+	General Sea Surface Station		Point	215600		
+	Antisubmarine Warfare (ASW) Sea Surface Station		Point	215700		
+	Mine Warfare Sea Surface Station		Point	215800		
+	Non-Combatant Sea Surface Station		Point	215900		
+	Picket Sea Surface Station		Point	216000		
+	Rendezvous Sea Surface Station		Point	216100		
+	Replenishment at Sea Surface Station		Point	216200		
+	Rescue Sea Surface Station		Point	216300		
+	Surface Warfare Sea Surface Station		Point	216400		
+	Unmanned Underwater Vehicle Sea Surface Station		Point	216500		
+	Antisubmarine Warfare (ASW) Unmanned Underwater Vehicle Sea Surface Station		Point	216600		
+	Mine Warfare Unmanned Underwater Vehicle Sea Surface Station		Point	216700		
+	Remote Multi-Mission Vehicle Mine Warfare Unmanned Underwater Sea Surface Station		Point	216800		
+	Surface Warfare Mine Warfare Unmanned Underwater Vehicle Sea Surface Station		Point	216900		
+	Shore Control Station		Point	217000		
+	General Route		Point	217100		
+	Diversion Route		Point	217200		
+	"Position and Intended					
+Movement (PIM) Route"	Point	217300				
+	Picket Route		Point	217400		
+	Point R Route		Point	217500		
+	Rendezvous Route		Point	217600		
+	Waypoint Route		Point	217700		
+	Clutter, Stationary or Cease Reporting		Point	217800		
+	Tentative or Provisional Track		Point	217900		
+	Distressed Vessel		Point	218000		
+	Ditched Aircraft/Downed Aircraft		Point	218100		
+	Person in Water/Bailout		Point	218200		
+	Iceberg		Point	218300		
+	Navigational		Line	218400		
+	Oil Rig		Point	218500		
+	Sea Mine–Like		Point	218600		
+	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)		Point	218700		
+	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)/Installation Manmade		Point	218800		
+		Marine Life	Point	218900		
+		"Sea Anomaly				
+(Wake, Current, Knuckle)"	219000					
+		Bottom Return/Non-MILCO, Wreck, Dangerous	Point	219100		
+		Bottom Return/Non-MILCO, Wreck, Non Dangerous	Point	219200		
+Maritime Control Lines				220000		
+	Bearing Line		Line	220100		
+		Electronic	Line	220101		
+		Electronic Warfare (EW)	Line	220102		
+		Acoustic	Line	220103		
+		Acoustic (Ambiguous)	Line	220104		
+		Torpedo	Line	220105		
+		Electro-Optical Intercept	Line	220106		
+		Jammer	Line	220107		
+		Radio Direction Finder (RDF)	Line	220108		
+{reserved for future use}				230000		
+Fires Areas				240000		
+	Airspace Coordination Area			240100		
+		Irregular	Area	240101		
+		Rectangular	Area	240102		
+		Circular	Area	240103		
+	Free Fire Area			240200		
+		Irregular	Area	240201		
+		Rectangular	Area	240202		
+		Circular	Area	240203		
+	No Fire Area			240300		
+		Irregular	Area	240301		
+		Rectangular	Area	240302		
+		Circular	Area	240303		
+	Restricted Fire Area			240400		
+		Irregular	Area	240401		
+		Rectangular	Area	240402		
+		Circular	Area	240403		
+	Position Area For Artillery (PAA)			240500		
+		Rectangular	Area	240501		
+		Circular	Area	240502		
+	Point Targets			240600		
+		Point or Single Target	Point	240601		
+		Nuclear Target	Point	240602		
+		Target-Recorded	Point	240603		
+	Linear Targets			240700		
+		Linear Target	Line	240701		
+		Linear Smoke Target	Line	240702		
+		Final Protective Fire (FPF)	Line	240703		
+	Area Targets			240800		
+		Area Target	Area	240801		
+		Rectangular Target	Area	240802		
+		Circular Target	Area	240803		
+		Rectangular Target – Single Target	Area	240804		
+		Series or Groups of Targets	Area	240805		
+		Smoke 	Area	240806		
+		{reserved for future use}		240807		
+		Bomb Area	Area	240808		
+	Fire Support Station		Point	240900		
+	Fire Support Area			241000		
+		Irregular	Area	241001		
+		Rectangular	Area	241002		
+		Circular	Area	241003		
+	Artillery Target Intelligence Zone			241100		
+		Irregular	Area	241101		
+		Rectangular	Area	241102		
+		Circular	Area	241103		
+	Call for Fire Area			241200		
+		Irregular	Area	241201		
+		Rectangular	Area	241202		
+		Circular	Area	241203		
+	Censor Zone			241300		
+		Irregular	Area	241301		
+		Rectangular	Area	241302		
+		Circular	Area	241303		
+	Critical Friendly Zone			241400		
+		Irregular	Area	241401		
+		Rectangular	Area	241402		
+		Circular	Area	241403		
+	Dead Space Area			241500		
+		Irregular	Area	241501		
+		Rectangular	Area	241502		
+		Circular	Area	241503		
+	Sensor Zone			241600		
+		Irregular	Area	241601		
+		Rectangular	Area	241602		
+		Circular	Area	241603		
+	Target Build–up Area			241700		
+		Irregular	Area	241701		
+		Rectangular	Area	241702		
+		Circular	Area	241703		
+	Target Value Area			241800		
+		Irregular	Area	241801		
+		Rectangular	Area	241802		
+		Circular	Area	241803		
+	Zone of Responsibility			241900		
+		Irregular	Area	241901		
+		Rectangular	Area	241902		
+		Circular	Area	241903		
+	Terminally Guided Munition Footprint (TGMF)		Area	242000		
+	Weapon/Sensor Range fan, Circular		Area	242100		
+	Weapon/Sensor Range fan, Sector		Area	242200		
+	Kill Box			242300		
+		Irregular, Blue	Area	242301		
+		Rectangular, Blue	Area	242302		
+		Circular, Blue	Area	242303		
+		Irregular, Purple	Area	242304		
+		Rectangular, Purple	Area	242305		
+		Circular, Purple	Area	242306		
+Fires Points				250000		
+	Firing Point		Point	250100		
+	Hide Point		Point	250200		
+	Launch Point		Point	250300		
+	Reload Point		Point	250400		
+	Survey Control Point		Point	250500		
+	Known Point		Point	250600		
+Fire Lines				260000		
+	Fire Support Coordination Line (FSCL)		Line	260100		
+	Coordinated Fire Line (CFL)		Line	260200		
+	No Fire Line		Line	260300		
+	Battlefield Coordination Line		Line	260400		
+	Restrictive Fire Line		Line	260500		
+	Munition Flight Path		Line	260600		
+Protection Areas				270000		
+	Obstacle Belt		Area	270100		
+	Obstacle Zone		Area	270200		
+	Obstacle Free Zone		Area	270300		
+	Obstacle Restricted Zone		Area	270400		
+	Obstacle Effects			270500		
+		Block	Area	270501		
+		Disrupt	Area	270502		
+		Fix	Line	270503		
+		Turn	Line	270504		
+	Obstacle Bypass			270600		
+		Easy	Point	270601		
+		Difficult	Point	270602		
+		Impossible	Point	270603		
+	Minefields			270700		
+		Static Depiction	Point	270701		
+		Dynamic Depiction	Area	270707		
+	Mined Area		Area	270800		
+		Fenced	Area	270801		
+	Unexploded Explosive Ordnance (UXO) Area		Area	271000		
+	Bridge or Gap		Line	271100		
+	Roadblocks, Craters and Blown Bridges			271200		
+		Planned	Line	271201		
+		Explosives, State of Readiness 1 (Safe)	Line	271202		
+		Explosives, State of Readiness 2 (armed but passable)	Line	271203		
+		Roadblock Complete (Executed)	Line	271204		
+	Assault Crossing		Line	271300		
+	{Reserved for future use}			271400		
+	Ford Easy		Line	271500		
+	Ford Difficult		Line	271600		
+	Biological Contaminated Area		Area	271700		
+	Chemical Contaminated Area		Area	271800		
+	Nuclear Contaminated Area		Area	271900		
+	Radiological Contaminated Area		Area	272000		
+	Minimum Safe Distance Zone		Area	272100		
+	Multiple Strikes – STRIKWARN		Area	272101		
+	Radiation Dose Rate Contour Lines		Area	272200		
+Protection Points				280000		
+	Abatis		Point	280100		
+	Antipersonnel Mine		Point	280200		
+		Antipersonnel Mine with Directional Effects	Point	280201		
+	Antitank Mine		Point	280300		
+	Antitank Mine with Anti-handling Device		Point	280400		
+	Wide Area Antitank Mine		Point	280500		
+	Unspecified Mine		Point	280600		
+	Booby Trap		Point	280700		
+	Engineer Regulating Point		Point	280800		
+	Shelter		Point	280900		
+	Shelter Above Ground		Point	281000		
+	Below Ground Shelter		Point	281100		
+	Fort		Point	281200		
+	Chemical Event		Point	281300		
+	Biological Event		Point	281400		
+	Nuclear Event		Point	281500		
+	Nuclear Fallout Producing Event		Point	281600		
+	Radiological Event		Point	281700		
+	General Decontamination Point/Site		Point	281800		
+		Alternate	Point	281801		
+		Equipment	Point	281802		
+		Troop	Point	281803		
+		Equipment/Troop		Point	281804	
+		Operational	Point	281805		
+		Thorough	Point	281806		
+		Main Equipment	Point	281807		
+		Forward Troop	Point	281808		
+		Wounded Personnel	Point	281809		
+	Tetrahedrons, Dragons Teeth, and Other Similar Obstacles			281900		
+		Fixed and Prefabricated	Point	281901		
+		Movable	Point	281902		
+		Movable and Prefabricated	Point	281903		
+	Vertical Obstructions			282000		
+		Tower, Low	Point	282001		
+		Tower, High	Point	282002		
+		Overhead Wire	Line	282003		
+Protection Lines				290000		
+	Obstacle Line		Line	290100		
+		Mineline	Line	290101		
+	Antitank Obstacles			290200		
+		Under Construction	Line	290201		
+		Completed	Line	290202		
+		Reinforced, with Antitank Mines	Line	290203		
+		Antitank Wall	Line	290204		
+	Wire Obstacles			290300		
+		Unspecified Wire	Line	290301		
+		Single Fence Wire	Line	290302		
+		Double Fence Wire	Line	290303		
+		Double Apron Fence	Line	290304		
+		Low Wire Fence	Line	290305		
+		High Wire Fence	Line	290306		
+		Single Concertina	Line	290307		
+		Double Strand Concertina	Line	290308		
+		Triple Strand Concertina	Line	290309		
+	Mine Cluster		Area	290400		
+	Trip Wire		Line	290500		
+	Lane		Line	290600		
+	Ferry		Line	290700		
+	Raft Site		Line	290800		
+	Fortified Line		Line	290900		
+	Fighting Position		Line	291000		
+Intelligence Lines				300000		
+	Intelligence Coordination Line		Line	300100		
+Sustainment Areas				310000		
+	Detainee Holding Area		Area	310100		
+	Enemy Prisoner or War Holding Area		Area	310200		
+	Forward Arming and Refueling Point		Area	310300		
+	Refugee Holding Area		Area	310400		
+	Regimental Support Area		Area	310500		
+	Brigade Support Area		Area	310600		
+	Division Support Area		Area	310700		
+Sustainment Points				320000		
+	Ambulance Points		Point	320100		
+		Ambulance Exchange Point	Point	320101		
+		Ambulance Control Point	Point	320102		
+		Ambulance Load Point	Point	320103		
+		Ambulance Relay Point	Point	320104		
+	Ammunition Supply Point		Point	320200		
+	Ammunition Transfer and Holding Point		Point	320300		
+	Cannibalization Point		Point	320400		
+	Casualty Collection Point			Point	320500	
+	Civilian Collection Point		Point	320600		
+	Detainee Collection Point		Point	320700		
+	Enemy Prisoner of War Collection Point		Point	320800		
+	Logistics Release Point		Point	320900		
+	Maintenance Collection Point (MCP)		Point	321000		
+	Medical Evacuation Point (MEDEVAC) Pick-Up Point		Point	321100		
+	Rearm, Refuel and Resupply Point (R3P)		Point	321200		
+	Refuel on the Move (ROM) Point		Point	321300		
+	Traffic Control Post (TCP)		Point	321400		
+	Trailer Transfer Point (TTP)		Point	321500		
+	Unit Maintenance Collection Point (UNCP)		Point	321600		
+	General Supply Point		Point	321700		
+		NATO Class I Supply Point	Point	321701		
+		NATO Class II Supply Point	Point	321702		
+		NATO Class III Supply Point	Point	321703		
+		NATO Class IV Supply Point	Point	321704		
+		NATO Class V Supply Point	Point	321705		
+		NATO Multiple Class Supply Point	Point	321706		
+		US Class I Supply Point	Point	321707		
+		US Class II Supply Point	Point	321708		
+		US Class III Supply Point	Point	321709		
+		US Class IV Supply Point	Point	321710		
+		US Class V Supply Point	Point	321711		
+		US Class VI Supply Point	Point	321712		
+		US Class VII Supply Point	Point	321713		
+		US Class VIII Supply Point	Point	321714		
+		US Class IX Supply Point	Point	321715		
+		US Class X Supply Point	Point	321716		
+	Medical Supply Point		Point	321800		
+Sustainment Lines				330000		
+	Moving Convoy		Line	330100		
+	Halted Convoy		Line	330200		
+	Main Supply Route		Line	330300		
+		One Way Traffic	Line	330301		
+		Two Way Traffic	Line	330302		
+		Alternating Traffic	Line	330303		
+	Alternate Supply Route		Line	330400		
+		One Way Traffic	Line	330401		
+		Two Way Traffic	Line	330402		
+		Alternating Traffic	Line	330403		
+Mission Tasks				340000		
+	Block		Area	340100		
+	Breach		Line	340200		
+	Bypass		Point	340300		
+	Canalize		Point	340400		
+	Clear		Line	340500		
+	Counterattack		Line	340600		
+	Counterattack by Fire		Line	340700		
+	Delay		Line	340800		
+	Destroy		Point	340900		
+	Disrupt		Area	341000		
+	Fix		Line	341100		
+	Follow and Assume		Line	341200		
+	Follow and Support		Line	341300		
+	Interdict		Point	341400		
+	Isolate		Area	341500		
+	Neutralize		Point	341600		
+	Occupy		Area	341700		
+	Penetrate		Area	341800		
+	Relief in Place (RIP)		Area	341900		
+	Retire/Retirement		Line	342000		
+	Secure		Area	342100		
+	Security			342200		
+		Cover	Line	342201		
+		Guard	Line	342202		
+		Screen	Line	342203		
+	Seize		Line	342300		
+	Withdraw		Line	342400		
+	Withdraw Under Pressure		Line	342500		
+	Cordon and Knock		Area	342600		
+	Cordon and Search		Area	342700		
+	Suppress		Point	342800		
+	Advance to Contact		Line	342900		
+	Capture		Line	343000		
+	Conduct Exploitation		Line	343100		
+	Control		Area	343200		
+	Demonstration		Line	343300		
+	Deny		Area	343400		
+	Envelop		Line	343500		
+	Escort		Line	343600		
+	Exfiltrate		Line	343700		
+	Infiltrate		Line	343800		
+	Locate		Area	343900		
+	Pursue		Line	344000		
+Space Debris			Point	350000		
+	Man Made Space Debris			350100		
+		Man Made Space Debris Small		350101		
+		Man Made Space Debris Medium		350102		
+		Man Made Space Debris Big		350103		
+	Natural Space Debris			350200		
+		Natural Space Debris Small		350201		
+		Natural Space Debris Medium		350202		
+		Natural Space Debris Big		350203		

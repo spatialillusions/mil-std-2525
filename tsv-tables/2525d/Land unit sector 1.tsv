@@ -1,0 +1,103 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Tactical Satellite Communications	Capability	01	
+Area	Capability	02	
+Attack	Capability	03	
+Biological	Capability	04	
+Border	Capability	05	
+Bridging	Capability	06	
+Chemical	Capability	07	
+Close Protection	Capability	08	
+Combat	Capability	09	
+Command and Control	Capability	10	
+Communications Contingency Package	Capability	11	
+Construction	Capability	12	
+Cross Cultural Communication	Capability	13	
+Crowd and Riot Control	Capability	14	
+Decontamination	Capability	15	
+Detention	Capability	16	
+Direct Communications	Capability	17	
+Diving	Capability	18	
+Division	Capability	19	
+Dog	Capability	20	
+Drilling	Capability	21	
+Electro–Optical	Capability	22	
+Enhanced	Capability	23	
+Explosive Ordnance Disposal (EOD)	Capability	24	
+Fire Direction Center	Capability	25	
+Force	Capability	26	
+Forward	Capability	27	
+Ground Station Module	Capability	28	
+Landing Support	Capability	29	
+{Reserved for future use}		30	
+Maintenance	Capability	31	
+Meteorological	Capability	32	
+Mine Countermeasure	Capability	33	
+Missile	Capability	34	
+Mobile Advisor and Support	Capability	35	
+Mobile Subscriber Equipment	Capability	36	
+Mobility Support	Capability	37	
+{Reserved for future use}		38	
+Multinational	Capability	39	
+Multinational Specialized Unit	Capability	40	
+Multiple Rocket Launcher	Capability	41	
+NATO Medical Role 1	Capability	42	Modifier is offset so that the modifier is not compromised by the main sector icon.
+NATO Medical Role 2	Capability	43	Modifier is offset so that the modifier is not compromised by the main sector icon.
+NATO Medical Role 3	Capability	44	Modifier is offset so that the modifier is not compromised by the main sector icon.
+NATO Medical Role 4	Capability	45	Modifier is offset so that the modifier is not compromised by the main sector icon.
+Naval	Capability	46	
+Unmanned Aerial Systems (UAS)	Capability	47	
+Nuclear	Capability	48	
+Operations	Capability	49	
+Radar	Capability	50	
+Radio Frequency Identification (RFID) Interrogator / Sensor	Capability	51	
+Radiological	Capability	52	
+Search and Rescue	Capability	53	
+Security	Capability	54	
+Sensor	Capability	55	
+Weapons	Capability	56	
+Signals Intelligence	Capability	57	
+Armored	Capability	58	
+Single Rocket Launcher	Capability	59	
+Smoke	Capability	60	
+Sniper	Capability	61	
+Sound Ranging	Capability	62	
+Special Operations Forces (SOF)	Capability	63	
+Special Weapons and Tactics	Capability	64	
+Survey	Capability	65	
+Tactical Exploitation	Capability	66	
+Target Acquisition	Capability	67	
+Topographic/Geospatial	Capability	68	
+Utility	Capability	69	
+Video Imagery (Combat Camera)	Capability	70	
+Mobility Assault	Capability	71	
+Amphibious Warfare Ship	Capability	72	
+Load Handling System	Capability	73	
+Palletized Load System	Capability	74	
+Medevac	Capability	75	
+Cyberspace	Capability	76	
+Support	Capability	77	
+Aviation	Capability	78	
+Route, Reconnaissance, and Clearance	Capability	79	
+Tilt-Rotor	Capability	80	
+Command Post Node	Capability	81	
+Joint Network Node	Capability	82	
+Retransmission Site	Capability	83	
+Assault	Capability	84	
+Weapons	Capability	85	
+Criminal Investigation Division	Capability	86	
+Digital	Capability	87	
+Network or Network Operations	Capability	88	
+"Airfield, Aerial Port of Debarkation, or 			
+Aerial Port of Embarkation"	Capability	89	
+Pipeline	Capability	90	
+Postal	Capability	91	
+Water	Capability	92	
+Independent Command	Capability	93	
+Theater	Capability	94	
+Army or Theater Army	Capability	95	
+Corps	Capability	96	
+Brigade	Capability	97	
+Headquarters or headquarters staff element	Capability	98	
+{Reserved for future use}		99	
+Version Extension Flag		-	

@@ -1,0 +1,11 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Low Earth Orbit (LEO)	Orbit	01	
+Medium Earth Orbit  (MEO)	Orbit	02	
+High Earth Orbit  (HEO)	Orbit	03	
+Geosynchronous Orbit (GSO)	Orbit	04	
+Geostationary Orbit (GO)	Orbit	05	
+Molniya Orbit (MO)	Orbit	06	
+Cyberspace	Capability	07	
+{Reserved for future use}		08-99	
+Version Extension Flag		-	

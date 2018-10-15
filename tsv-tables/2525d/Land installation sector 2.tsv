@@ -1,0 +1,13 @@
+First Modifier	Category	Code	Remarks
+Unspecified		00	
+Biological Warfare Production	Capability	01	
+Chemical Warfare Production	Capability	02	
+Nuclear Warfare Production	Capability	03	
+Radiological Warfare Production	Capability	04	
+Atomic Energy Reactor	Capability	05	
+Nuclear Material Production	Capability	06	
+Nuclear Material Storage	Capability	07	
+Weapons Grade Production	Capability	08	
+Cyberspace	Capability	09	
+{Reserved for future use}		10-99	
+Version Extension Flag		-	
