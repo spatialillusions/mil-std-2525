@@ -8,7 +8,7 @@ export default [
       {
         file: "milstd2525.js",
         format: "umd",
-        name: "milstd"
+        name: "milstd2525"
       },
       {
         file: "milstd2525.esm.js",
