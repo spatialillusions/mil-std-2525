@@ -1,9 +1,9 @@
 {
-  "name": "milstd",
-  "version": "0.1.6",
+  "name": "milstd2525",
+  "version": "0.1.0",
   "description": "Military symbol standards in JSON format",
-  "main": "milstd.js",
-  "module": "milstd.esm.js",
+  "main": "milstd2525.js",
+  "module": "milstd2525.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c"
