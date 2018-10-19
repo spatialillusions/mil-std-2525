@@ -1,5 +1,5 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-WAR.AIRTRK	S	*	A	*	------	AIR TRACK
+WAR.AIRTRK	S	*	A	*	------	AIR TRACK	
 WAR.AIRTRK.MIL	S	*	A	*	M-----	MILITARY
 WAR.AIRTRK.MIL.FIXD	S	*	A	*	MF----	FIXED WING
 WAR.AIRTRK.MIL.FIXD.BMB	S	*	A	*	MFB---	BOMBER
