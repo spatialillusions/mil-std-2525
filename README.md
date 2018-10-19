@@ -1,4 +1,4 @@
-# MILSTD Military symbol standards in JSON
+# MILSTD Military symbol standards in TSV and JS
 
 This repository contains the following standards in JSON format for easy reuse in other projects.
 
@@ -7,10 +7,6 @@ This repository contains the following standards in JSON format for easy reuse i
 * MIL-STD-2525C
 
 * MIL-STD-2525D change 1
-
-* APP-6 B
-
-* APP-6 D
 
 ## License
 
