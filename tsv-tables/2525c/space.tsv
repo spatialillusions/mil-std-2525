@@ -1,6 +1,6 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-SPC 	S	*	P	*	------	SPACE TRACK
-SPC.SAT 	S	*	P	*	S-----	SATELLITE
-SPC.CSV 	S	*	P	*	V-----	CREWED SPACE VEHICLE
-SPC.SST 	S	*	P	*	T-----	SPACE STATION
-SPC.SLV 	S	*	P	*	L-----	SPACE LAUNCH VEHICLE
+SPC 	S	*	P	*	------	SPACE TRACK	
+SPC.SAT 	S	*	P	*	S-----	SATELLITE	
+SPC.CSV 	S	*	P	*	V-----	CREWED SPACE VEHICLE	
+SPC.SST 	S	*	P	*	T-----	SPACE STATION	
+SPC.SLV 	S	*	P	*	L-----	SPACE LAUNCH VEHICLE	
