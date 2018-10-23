@@ -59,7 +59,7 @@ Maneuver Lines				140000
 	Release Line		Line	141600		
 	Ambush		Line	141700		
 Maneuver Areas				150000		
-	Area			150100		
+	Area		Area	150100		
 	Assembly Area		Area	150200		
 	Occupied Assembly Area		Area	150300		
 	{Reserved for future use}			150400		
@@ -87,7 +87,7 @@ Maneuver Areas				150000
 	Assault Position		Area	151500		
 	Attack Position		Area	151600		
 	Objective		Area	151700		
-	Encirclement			151800		
+	Encirclement		Area	151800		
 	Penetration Box		Area	151900		
 	Attack by Fire Position		Area	152000		
 	Support by Fire		Area	152100		
@@ -144,8 +144,7 @@ Airspace Control Points				180000
 	Tomcat		Point	181800		
 	Rescue		Point	181900		
 	Unmanned Aerial System (UAS/UA)		Point	182000		
-	"Vertical Takeoff and Landing (VTOL) Tactical Unmanned 					
-Aircraft (VTUA)"	Point	182100				
+	Vertical Takeoff and Landing (VTOL) Tactical Unmanned Aircraft (VTUA)		Point	182100				
 	Orbit		Point	182200		
 	Orbit – Figure Eight		Point	182300		
 	Orbit – Race Track		Point	182400		
@@ -258,8 +257,7 @@ Maritime Control Points				210000
 	Shore Control Station		Point	217000		
 	General Route		Point	217100		
 	Diversion Route		Point	217200		
-	"Position and Intended					
-Movement (PIM) Route"	Point	217300				
+	Position and Intended Movement (PIM) Route		Point	217300				
 	Picket Route		Point	217400		
 	Point R Route		Point	217500		
 	Rendezvous Route		Point	217600		
@@ -276,8 +274,7 @@ Movement (PIM) Route"	Point	217300
 	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)		Point	218700		
 	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)/Installation Manmade		Point	218800		
 		Marine Life	Point	218900		
-		"Sea Anomaly				
-(Wake, Current, Knuckle)"	219000					
+		Sea Anomaly (Wake, Current, Knuckle)	Point	219000					
 		Bottom Return/Non-MILCO, Wreck, Dangerous	Point	219100		
 		Bottom Return/Non-MILCO, Wreck, Non Dangerous	Point	219200		
 Maritime Control Lines				220000		
@@ -453,7 +450,7 @@ Protection Points				280000
 		Alternate	Point	281801		
 		Equipment	Point	281802		
 		Troop	Point	281803		
-		Equipment/Troop		Point	281804	
+		Equipment/Troop	Point	281804	
 		Operational	Point	281805		
 		Thorough	Point	281806		
 		Main Equipment	Point	281807		
@@ -511,7 +508,7 @@ Sustainment Points				320000
 	Ammunition Supply Point		Point	320200		
 	Ammunition Transfer and Holding Point		Point	320300		
 	Cannibalization Point		Point	320400		
-	Casualty Collection Point			Point	320500	
+	Casualty Collection Point		Point	320500	
 	Civilian Collection Point		Point	320600		
 	Detainee Collection Point		Point	320700		
 	Enemy Prisoner of War Collection Point		Point	320800		
@@ -596,12 +593,12 @@ Mission Tasks				340000
 	Infiltrate		Line	343800		
 	Locate		Area	343900		
 	Pursue		Line	344000		
-Space Debris			Point	350000		
+Space Debris				350000		
 	Man Made Space Debris			350100		
-		Man Made Space Debris Small		350101		
-		Man Made Space Debris Medium		350102		
-		Man Made Space Debris Big		350103		
+		Man Made Space Debris Small	Point	350101		
+		Man Made Space Debris Medium	Point	350102		
+		Man Made Space Debris Big	Point	350103		
 	Natural Space Debris			350200		
-		Natural Space Debris Small		350201		
-		Natural Space Debris Medium		350202		
-		Natural Space Debris Big		350203		
+		Natural Space Debris Small	Point	350201		
+		Natural Space Debris Medium	Point	350202		
+		Natural Space Debris Big	Point	350203		
