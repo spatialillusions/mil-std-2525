@@ -163,8 +163,8 @@ Maritime Control Areas				200000
 		Ellipse/Circle	Area	200401		
 		Rectangle	Area	200402		
 	Active Maneuver Area		Point	200500		
-	Cued Acquisition Doctrine		Point	200600		
-	Radar Search Doctrine		Point	200700		
+	Cued Acquisition Doctrine		Point17	200600		
+	Radar Search Doctrine		Point18	200700		
 Maritime Control Points				210000		
 	Plan Ship		Point	210100		
 	Aim Point		Point	210200		
@@ -401,9 +401,9 @@ Protection Areas				270000
 		Fix	Line	270503		
 		Turn	Line	270504		
 	Obstacle Bypass			270600		
-		Easy	Point	270601		
-		Difficult	Point	270602		
-		Impossible	Point	270603		
+		Easy	Point12	270601		
+		Difficult	Point12	270602		
+		Impossible	Point12	270603		
 	Minefields			270700		
 		Static Depiction	Point	270701		
 		Dynamic Depiction	Area	270707		
@@ -552,8 +552,8 @@ Sustainment Lines				330000
 Mission Tasks				340000		
 	Block		Area	340100		
 	Breach		Line	340200		
-	Bypass		Point	340300		
-	Canalize		Point	340400		
+	Bypass		Point12	340300		
+	Canalize		Point12	340400		
 	Clear		Line	340500		
 	Counterattack		Line	340600		
 	Counterattack by Fire		Line	340700		
