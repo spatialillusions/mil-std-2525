@@ -428,7 +428,7 @@ Protection Areas				270000
 	Multiple Strikes – STRIKWARN		Area	272101		
 	Radiation Dose Rate Contour Lines		Area	272200		
 Protection Points				280000		
-	Abatis		Point	280100		
+	Abatis		Line	280100		
 	Antipersonnel Mine		Point	280200		
 		Antipersonnel Mine with Directional Effects	Point	280201		
 	Antitank Mine		Point	280300		
