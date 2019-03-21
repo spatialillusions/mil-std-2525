@@ -1,5 +1,5 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-STBOPS 	O	-	-	-	------	STABILITY OPERATIONS (SO)	N/A	
+STBOPS 	O	-	-	-	------	STABILITY OPERATIONS (SO)	N/A
 STBOPS.VIOATY 	O	*	V	*	------	VIOLENT ACTIVITIES (DEATH CAUSING) 	
 STBOPS.VIOATY.ASN 	O	*	V	*	A-----	ARSON/FIRE 	
 STBOPS.VIOATY.KILL 	O	*	V	*	M-----	KILLING (GENERAL) 	
@@ -45,7 +45,7 @@ STBOPS.OPN.CMPLSS 	O	*	O	*	C-----	COMPOSITE LOSS
 STBOPS.OPN.CMPLSS.CBT 	O	*	O	*	CA----	COMBAT 	
 STBOPS.OPN.CMPLSS.ACCDNT 	O	*	O	*	CB----	ACCIDENT 	
 STBOPS.OPN.CMPLSS.OTHER 	O	*	O	*	CC----	OTHER 	
-STBOPS.ITM 	O	*	I	*	------	ITEMS	N/A	
+STBOPS.ITM 	O	*	I	*	------	ITEMS	N/A
 STBOPS.ITM.RFG 	O	*	I	*	R-----	REFUGEES 	
 STBOPS.ITM.SAFHSE 	O	*	I	*	S-----	SAFE HOUSE 	
 STBOPS.ITM.GRF 	O	*	I	*	G-----	GRAFFITI 	
