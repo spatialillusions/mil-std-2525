@@ -1,6 +1,6 @@
 {
   "name": "mil-std-2525",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Military symbol standards in JSON format",
   "main": "milstd2525.js",
   "module": "milstd2525.esm.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spatialillusions/milstd.git"
+    "url": "git+https://github.com/spatialillusions/mil-std-2525.git"
   },
   "author": "Måns Beckman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spatialillusions/milstd/issues"
+    "url": "https://github.com/spatialillusions/mil-std-2525/issues"
   },
-  "homepage": "https://github.com/spatialillusions/milstd#readme",
+  "homepage": "https://github.com/spatialillusions/mil-std-2525#readme",
   "devDependencies": {
     "rollup": "^3.17.2",
     "rollup-plugin-string": "^3.0.0"
