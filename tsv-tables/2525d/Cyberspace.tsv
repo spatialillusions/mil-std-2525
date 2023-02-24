@@ -1,4 +1,4 @@
-Entity	Entity Type	Entity Subtype	110400	Remarks
+Entity	Entity Type	Entity Subtype	Code	Remarks
 Unspecified			000000	
 Botnet			110000	Reserved for hierarchical purposes.
 	Command and Control (C2)    		110100	
