@@ -1,8 +1,52 @@
-Entity	Entity Type	Entity Subtype	Code	Remarks
+Entity	Entity Type	Entity Subtype	110400	Remarks
 Unspecified			000000	
-Mission Force			110000	Reserved for hierarchical purposes.
-	Combat Mission Team		110100	
-	National Mission Team		110200	
-	Cyber Protection Team		110300	
-	Nation State Cyber Threat Actor		110400	
-	Non Nation State Cyber Threat Actor		110500	
+Botnet			110000	Reserved for hierarchical purposes.
+	Command and Control (C2)    		110100	
+	Herder 		110200	
+	Callback Domain		110300	
+	Zombie 		110400	
+Infection			120000	
+	Advanced Persistent Threat  (APT)		120100	
+		APT with C2 	120101	
+		APT with Self Propagation	120102	
+		APT with C2 and Self Propagation	120103	
+		APT Other 	120104	
+	Non-Advanced Persistent Threat (NAPT)		120200	
+		NAPT with C2 	120201	
+		NAPT with Self Propagation	120202	
+		NAPT with C2 and Self Propagation	120203	
+		NAPT Other 	120204	
+Health and Status  			130000	
+	Normal		130100	
+	Network Outage		130200	
+	Unknown		130300	
+	Impaired		130400	
+Device Type  			140000	
+	Core Router 		140100	
+	Router		140200	
+	Cross Domain Solution    		140300	
+	Mail Server 		140400	
+	Web Server 		140500	
+	Domain Server		140600	
+	File Server		140700	
+	Peer-to-Peer Node		140800	
+	Firewall		140900	
+	Switch		141000	
+	Host		141100	
+	Virtual Private Network (VPN)		141200	
+Device Domain  			150000	
+	Department of Defense (DoD)		150100	
+	Government		150200	
+	Contractor		150300	
+	Supervisory Control and Data Acquisition (SCADA)		150400	
+	Non-Government		150500	
+Effect			160000	
+	Infection		160100	
+	Degradation		160200	
+	Data Spoofing		160300	
+	Data Manipulation		160400	
+	Exfiltration		160500	
+	Power Outage		160600	
+	Network Outage		160700	
+	Service Outage		160800	
+	Device Outage		160900	
