@@ -398,6 +398,4 @@ var _2525d = {
   }
 };
 
-// Creates a js file with all standards
-
 export { _2525b as ms2525b, _2525c as ms2525c, _2525d as ms2525d };

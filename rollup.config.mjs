@@ -1,4 +1,4 @@
-import string from "rollup-plugin-string";
+import { string } from "rollup-plugin-string";
 
 export default [
   {
@@ -8,18 +8,18 @@ export default [
       {
         file: "milstd2525.js",
         format: "umd",
-        name: "milstd2525"
+        name: "milstd2525",
       },
       {
         file: "milstd2525.esm.js",
-        format: "es"
-      }
+        format: "es",
+      },
     ],
     plugins: [
       string({
         // Required to be specified
-        include: "**/*.tsv"
-      })
-    ]
-  }
+        include: "**/*.tsv",
+      }),
+    ],
+  },
 ];

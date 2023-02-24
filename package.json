@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/spatialillusions/milstd#readme",
   "devDependencies": {
-    "rollup": "^0.58.2",
-    "rollup-plugin-string": "^2.0.2"
+    "rollup": "^3.17.2",
+    "rollup-plugin-string": "^3.0.0"
   }
 }
