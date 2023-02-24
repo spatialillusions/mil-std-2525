@@ -1,5 +1,5 @@
 {
-  "name": "milstd2525",
+  "name": "mil-std-2525",
   "version": "0.2.0",
   "description": "Military symbol standards in JSON format",
   "main": "milstd2525.js",
