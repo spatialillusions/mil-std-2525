@@ -1,5 +1,5 @@
 geometry	hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-	TACGRP	G	*	-	-------	TACTICAL GRAPHICS		
+	TACGRP	G	*	-	-	-------	TACTICAL GRAPHICS	N/A
 	TACGRP.TSK	G	*	T	*	------	TASKS	N/A
 	TACGRP.TSK.BLK	G	*	T	*	B-----	BLOCK	
 	TACGRP.TSK.BRH	G	*	T	*	H-----	BREACH	
