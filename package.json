@@ -6,6 +6,7 @@
   "module": "milstd2525.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build",
     "build": "rollup -c"
   },
   "repository": {

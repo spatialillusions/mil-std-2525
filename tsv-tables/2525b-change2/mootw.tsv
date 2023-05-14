@@ -1,5 +1,5 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-MOOTW	O	*	-	*	-------	MILITARY OPERATIONS OTHER THAN WAR (MOOTW)	
+MOOTW	O	*	-	*	------	MILITARY OPERATIONS OTHER THAN WAR (MOOTW)	
 MOOTW.VIOATY	O	*	V	*	------	VIOLENT ACTIVITIES (DEATH CAUSING)	
 MOOTW.VIOATY.ASN	O	*	V	*	A-----	ARSON/FIRE	
 MOOTW.VIOATY.KILL	O	*	V	*	M-----	KILLING (GENERAL)	

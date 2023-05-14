@@ -10,7 +10,7 @@ This repository contains the following standards for easy reuse in other project
 
 ## Usage
 
-```npm install mil-symbol-2525```
+```npm install mil-std-2525```
 
 Then you can simply:
 

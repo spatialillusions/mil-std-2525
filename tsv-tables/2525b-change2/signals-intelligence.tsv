@@ -1,5 +1,5 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
-SIGINT	I	-	-	*	-------	SIGNALS INTELLIGENCE	
+SIGINT	I	-	-	*	------	SIGNALS INTELLIGENCE	
 SIGINT.SPC	I	*	P	*	------	SPACE TRACK	
 SIGINT.SPC.SIGINC	I	*	P	*	S-----	SIGNAL INTERCEPT	
 SIGINT.SPC.SIGINC.COMM	I	*	P	*	SC----	COMMUNICATIONS	
