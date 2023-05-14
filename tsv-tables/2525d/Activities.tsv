@@ -4,9 +4,9 @@ Incident			110000	Reserved for hierarchical purposes.
 	Criminal Activity Incident		110100	
 		Arrest	110101	
 		Arson	110102	
-		Attempted Criminal Activity	110103	APP-6C
+		Attempted Criminal Activity	110103	
 		Drive-by Shooting	110104	
-		Drug Related	110105	APP-6C
+		Drug Related	110105	
 		Extortion	110106	
 		Graffiti	110107	
 		Killing	110108	
@@ -53,7 +53,7 @@ Operation			130000	Reserved for hierarchical purposes.
 	Foraging/Searching		130300	
 	Recruitment		130400	Reserved for hierarchical purposes.
 		Willing	130401	
-		Unwilling/Coerced	130402	
+		Coerced/Impressed	130402	
 	Mine Laying		130500	
 	Spy		130600	
 	Warrant Served		130700	
