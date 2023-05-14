@@ -16,5 +16,5 @@ Medium Range	Missile Range	13	1000km to 3500km. Typically used in reference to s
 Intermediate Range	Missile Range	14	1000km to 3500km. Typically used in reference to ballistic missile
 Long Range	Missile Range	15	3500km to 5500km.
 Intercontinental	Missile Range	16	5500km or greater.
-{Reserved for future use}		17-99	
-Version Extension Flag		-	
+Reserved for Future Use	17-98	Assigned by SSMC/JSP only
+Version Extension Flag	99	
