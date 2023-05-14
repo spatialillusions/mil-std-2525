@@ -8,5 +8,5 @@ Anti–Ballistic	Missile Class	05
 Ballistic	Missile Class	06	
 Cruise	Missile Class	07	
 Interceptor	Missile Class	08	
-{Reserved for future use}		09-99	
-Version Extension Flag		-	
+Reserved for Future Use		09-98	Assigned by SSMC/JSP only 
+Version Extension Flag		99	
