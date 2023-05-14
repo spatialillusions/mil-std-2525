@@ -1,6 +1,6 @@
 {
   "name": "mil-std-2525",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Military symbol standards in JSON format",
   "main": "milstd2525.js",
   "module": "milstd2525.esm.js",
