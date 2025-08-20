@@ -144,7 +144,7 @@ Airspace Control Points				180000
 	Tomcat		Point	181800		
 	Rescue		Point	181900		
 	Unmanned Aerial System (UAS/UA)		Point	182000		
-	Vertical Takeoff and Landing (VTOL) Tactical Unmanned Aircraft (VTUA)		Point	182100				
+	Vertical Takeoff and Landing (VTOL) Tactical Unmanned Aircraft (VTUA)		Point	182100		
 	Orbit		Point	182200		
 	Orbit – Figure Eight		Point	182300		
 	Orbit – Race Track		Point	182400		
@@ -257,7 +257,7 @@ Maritime Control Points				210000
 	Shore Control Station		Point	217000		
 	General Route		Point	217100		
 	Diversion Route		Point	217200		
-	Position and Intended Movement (PIM) Route		Point	217300				
+	Position and Intended Movement (PIM) Route		Point	217300		
 	Picket Route		Point	217400		
 	Point R Route		Point	217500		
 	Rendezvous Route		Point	217600		
@@ -274,7 +274,7 @@ Maritime Control Points				210000
 	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)		Point	218700		
 	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)/Installation Manmade		Point	218800		
 		Marine Life	Point	218900		
-		Sea Anomaly (Wake, Current, Knuckle)	Point	219000					
+		Sea Anomaly (Wake, Current, Knuckle)	Point	219000		
 		Bottom Return/Non-MILCO, Wreck, Dangerous	Point	219100		
 		Bottom Return/Non-MILCO, Wreck, Non Dangerous	Point	219200		
 Maritime Control Lines				220000		
