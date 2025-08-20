@@ -6,7 +6,10 @@ This repository contains the following standards for easy reuse in other project
 
 * MIL-STD-2525C
 
-* MIL-STD-2525D change 1
+* MIL-STD-2525D
+
+* MIL-STD-2525E can be found in https://github.com/spatialillusions/milstandard-e
+
 
 ## Usage
 
